@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e1429eba5d28022e616a5381dc95e108.js"
+  "/precache-manifest.99d1c9a1f80f7a108a507c47e46b4d09.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "crypto-app"});
